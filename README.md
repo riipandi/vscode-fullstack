@@ -10,7 +10,7 @@ In Microsoft Windows you will need:
 2. [NodeJS](https://nodejs.org/en/download/)
 3. [Yarn](https://yarnpkg.com/lang/en/docs/install/#windows-stable)
 4. [Laragon](https://github.com/leokhoa/laragon/releases) or another stack
-
+5. [Hyper Terminal](https://hyper.is/) (optional)
 ## Recomended Configuration
 
 ```json
