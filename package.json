@@ -1,0 +1,48 @@
+{
+  "name": "vscode-fullstack",
+  "displayName": "FSD Extension Pack",
+  "description": "Fullstack developer extension pack for Visual Studio Code.",
+  "version": "1.0.0",
+  "publisher": "riipandi",
+  "scripts": {
+    "deploy": "vsce publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/riipandi/vscode-fullstack"
+  },
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#243b55",
+    "theme": "dark"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "website",
+    "webdev",
+    "devops",
+    "fullstack"
+  ],
+  "extensionPack": [
+    "riipandi.vscode-essential",
+    "MS-vsliveshare.vsliveshare",
+    "junstyle.php-cs-fixer",
+    "felixfbecker.php-debug",
+    "felixfbecker.php-intellisense",
+    "onecentlin.laravel5-snippets",
+    "onecentlin.laravel-blade",
+    "dbaeumer.vscode-eslint",
+    "sdras.vue-vscode-snippets",
+    "xabikos.javascriptsnippets",
+    "octref.vetur",
+    "ms-vscode.csharp",
+    "ms-python.python",
+    "ms-vscode.Go",
+    "hangxingliu.vscode-systemd-support"
+  ]
+}
